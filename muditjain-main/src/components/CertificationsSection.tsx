@@ -28,7 +28,12 @@ const certificates = [
     image: "/certificates/lally.png",
   },
   // {
-  //   title: "MongoDB Basics",
+  //   title: "MongoDB Basics",  cd "c:\Users\jainm\Videos\Desktop\muditjain-main\muditjain-main"
+  rm bun.lock
+  rm bun.lockb
+  git add .
+  git commit -m "Remove bun lock files to fix Vercel build"
+  git push origin main
   //   issuer: "MongoDB University",
   //   date: "2024",
   //   image: "/certificates/mongodb.png",
