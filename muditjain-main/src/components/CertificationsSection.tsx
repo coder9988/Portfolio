@@ -27,12 +27,12 @@ const certificates = [
     date: "2024",
     image: "/certificates/lally.png",
   },
-  {
-    title: "MongoDB Basics",
-    issuer: "MongoDB University",
-    date: "2024",
-    image: "/certificates/mongodb.png",
-  },
+  // {
+  //   title: "MongoDB Basics",
+  //   issuer: "MongoDB University",
+  //   date: "2024",
+  //   image: "/certificates/mongodb.png",
+  // },
   {
     title: "Applied Artificial Intelligence",
     issuer: "IBMSkillsBuild",
